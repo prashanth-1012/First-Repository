@@ -1,3 +1,4 @@
+import streamlit as st
 name = st.str_input('Enter the name of the friend whom you want wish')
 st.title("HBD wishes")
 
